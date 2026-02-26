@@ -2,7 +2,7 @@
 
 The `seq_limits.lean` file contains the *Sandwich theorem* example we discussed in the class.
 
-## Hometask, part 1. Exploring LLM proofs
+## Practice, part 1. Exploring LLM proofs
 
 * Take a conjecture that’s relevant for your research
 
@@ -10,7 +10,7 @@ The `seq_limits.lean` file contains the *Sandwich theorem* example we discussed 
 
 * Share how it goes in Discord or in class!
 
-## Hometask, part 2. Exploring Lean
+## Practice, part 2. Exploring Lean
 
 In this task, you'll explore various Lean tactics and theorems by analyzing proofs of several simple theorems.
 
