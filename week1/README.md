@@ -2,11 +2,11 @@
 
 The `seq_limits.lean` file contains the *Sandwich theorem* example we discussed in the class.
 
-## Hometask, part 1.
+## Hometask, part 1. Exploring LLM proofs
 
 * Take a conjecture that’s relevant for your research
 
-* Try to prove it with an LLM (the cooler, the better)
+* Try to prove it with an LLM (the cooler, the better). Will it fail? Will it hallucinate? Will it give any useful hints? Try doing it with and without allowing the LLM to search the web
 
 * Share how it goes in Discord or in class!
 
