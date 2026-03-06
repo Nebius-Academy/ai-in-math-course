@@ -48,7 +48,7 @@ Under “normal” conditions, the super cool sink is 𝑃⊕𝐼 itself, but in
 
 You'll have quite rich data here: https://drive.google.com/file/d/1WAA933tKt36X0I13NmmpLVKrHtlZkrHT/view?usp=sharing
 
-Inside, you'll find six folders:
+Inside the `.zip` archive, you'll find six folders:
 
 * `incompletes_a3` containing data about the A3 quiver: 0 -> 1 -> 2
 * `incompletes_a3_sink` containing data about the A3_sink quiver: 0 -> 1 <- 2
