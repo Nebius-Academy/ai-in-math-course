@@ -63,7 +63,7 @@ Inside each folder, you'll find a number of subfolders named like `3433_0321`, w
 
 Inside each of these folders, you'll find...another subfolder, and inside of it:
 
-* `parsed.csv` listing 𝑎-dimensional representations 𝑀 (`module` column contains them as bags of intervals such as `[1,1] + [0,2] + [0,3] + [0,3] + [3,3]`) and geometric invariants of 𝐺𝑟(𝑀, 𝑑) (you need the `irred_dims` column, which contains space-delimited dimensions of irreducible components; for example: `4 5 5`)
+* `parsed.csv` listing 𝑎-dimensional representations 𝑀 (`module` column contains them as bags of intervals such as `[1,1] + [0,2] + [0,3] + [0,3] + [3,3]`) and geometric invariants of 𝐺𝑟(𝑀, 𝑑) (you need the `irred_dims` column, which contains space-delimited dimensions of irreducible components; for example: `4 5 5`; a representation is irreducible if its `irred_dims` consist of a single number)
 * `rank_poset/edges.csv` containing the edges of the degeneration graph as sources (`src` column) and targets	(`dst` column)
 
 This information should be enough for you to determine 𝑠𝑢𝑝𝑒𝑟 𝑐𝑜𝑜𝑙 𝑠𝑖𝑛𝑘 for every configuration (𝑎, 𝑑) you can possibly find in the zip file.
