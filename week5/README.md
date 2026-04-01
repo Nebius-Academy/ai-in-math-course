@@ -11,3 +11,7 @@ Hometask notebooks
 **Option 2 (for those up for a challenge): Explore fine tuning on mathematical data (from the Fano varieties paper)**
 
 [Colab link](https://colab.research.google.com/drive/1T_utkRp76q3-JgkCdGzOSrJibRZZNrCt?usp=sharing)
+
+Papers of the week:
+  * [Machine learning the dimension of a Fano variety](https://arxiv.org/abs/2309.05473)
+  * [Machine learning detects terminal singularities](https://arxiv.org/abs/2310.20458)
