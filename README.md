@@ -17,25 +17,30 @@
 - **Week 1: What AI is. AI-assisted theorem proving and verification** -- 25.02
 
 - **Week 2: Coding agents. Orchestrating math experiments** -- 4.03
+  
   Papers of the week:
   * CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs. [Brief version](https://arxiv.org/abs/2509.19162) and [Long version](https://arxiv.org/abs/2502.18663)
   * [PrIncipal quiver Grassmannians: conjectures](https://arxiv.org/abs/2512.09731)
 
 - **Week 3: Linear models** -- 11.03
+  
   Papers of the week:
   * [Murmurations of elliptic curves](https://arxiv.org/pdf/2204.10140)
 
 - **Week 4: Gradient descent & Decision trees** -- 18.03
+  
   Papers of the week:
   * [Machine-Learning Number Fields](https://arxiv.org/pdf/2011.08958)
   * [Machines Learn Number Fields, But How? The Case of Galois Groups](https://arxiv.org/pdf/2508.06670v1)
 
 - **Week 5: Neural networks** -- 25.03
+  
   Papers of the week:
   * [Machine learning the dimension of a Fano variety](https://arxiv.org/abs/2309.05473)
   * [Machine learning detects terminal singularities](https://arxiv.org/abs/2310.20458)
 
 - **Week 6: Physics-informed neural networks & Dimensionality reduction** -- 1.04
+  
   Papers of the week:
   * [Physics-informed learning of governing equations from scarce data](https://arxiv.org/abs/2005.03448)
   * [Discovery of Unstable Singularities](https://arxiv.org/abs/2509.14185)
