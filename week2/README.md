@@ -1,5 +1,8 @@
 # Week 2. Coding agents as tools for mathematical experimentation
 
+Papers of the week:
+  * CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs. [Brief version](https://arxiv.org/abs/2509.19162) and [Long version](https://arxiv.org/abs/2502.18663)
+  * [PrIncipal quiver Grassmannians: conjectures](https://arxiv.org/abs/2512.09731)
 
 ## Practice, part 1. Exploring Cayley graph diameters with coding agents
 
