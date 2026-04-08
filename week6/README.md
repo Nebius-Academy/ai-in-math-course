@@ -2,7 +2,7 @@
 
 Practice notebook: [link](https://colab.research.google.com/drive/15VIh1B_742ghy63JEbE2OQkWtgkgA3Hc?usp=sharing)
 
-Hometask notebook: TBA
+Hometask notebook: [link](https://colab.research.google.com/drive/1oUi4hRmfMH7OiYBX6KxFIwR9zjkUTXFn?usp=sharing)
 
 Papers of the week:
   * [Physics-informed learning of governing equations from scarce data](https://arxiv.org/abs/2005.03448)
