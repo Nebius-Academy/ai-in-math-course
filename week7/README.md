@@ -6,7 +6,7 @@ Practice notebooks:
 * [Knot demo](https://colab.research.google.com/drive/1icUt_Ul79b2_6BDyL_Ikj56VP-EF_K4l?usp=sharing)
 * [RNN demo](https://colab.research.google.com/drive/1hr0sTNvfazRLB733eZDBjdw3jcGGC069?usp=sharing)
 
-Hometask notebook: TBA
+Hometask notebook: [link](https://colab.research.google.com/drive/13gjQycFoX3J-a1HAiCINOZgwqbAvCmm8?usp=sharing)
 
 Papers of the week:
   * [Geometric Learning of Knot Topology](https://www.researchgate.net/publication/374895179_Geometric_Learning_of_Knot_Topology) 
