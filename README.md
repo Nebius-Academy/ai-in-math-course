@@ -53,9 +53,17 @@
 
 - **Week 8: Transformers** -- 15.04
 
+  Papers of the week:
+  * [Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers](https://arxiv.org/abs/2410.08304)
+  * [Learning Euler Factors of Elliptic Curves](https://arxiv.org/abs/2502.10357)
+
 - **There was a break here**
 
 - **Week 9: LLMs & Reasoning** -- 29.04
+
+  Papers of the week:
+  * [Recognizing and generating knotted molecular structures by machine learning](https://arxiv.org/pdf/2501.12780)
+  * And a whole lot of papers on reasoning
 
 - **Week 10: Reinforcement Learning, part 1: Basic concepts & Policy Gradient** -- 6.05
 
