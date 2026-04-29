@@ -53,14 +53,24 @@
 
 - **Week 8: Transformers** -- 15.04
 
-- **Week 9: LLMs & Reasoning** -- 22.04
+  Papers of the week:
+  * [Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers](https://arxiv.org/abs/2410.08304)
+  * [Learning Euler Factors of Elliptic Curves](https://arxiv.org/abs/2502.10357)
 
-- **Week 10: Agents & Monte-Carlo Tree Search** -- 29.04
+- **There was a break here**
 
-- **Week 11: Reinforcement Learning, part 1: Basic concepts & Policy Gradient** -- 6.04
+- **Week 9: LLMs & Reasoning** -- 29.04
 
-- **Week 12: Reinforcement Learning, part 2: PPO** -- 13.04
+  Papers of the week:
+  * [Recognizing and generating knotted molecular structures by machine learning](https://arxiv.org/pdf/2501.12780)
+  * And a whole lot of papers on reasoning
 
-- **Week 13: Algorithmic optimization & AlphaEvolve** -- 20.04
+- **Week 10: Reinforcement Learning, part 1: Basic concepts & Policy Gradient** -- 6.05
+
+- **Week 11: Reinforcement Learning, part 2: PPO** -- 13.05
+
+- **Week 12: Algorithmic optimization & AlphaEvolve** -- 20.05
+
+- **Week 13: RAG and Agents** -- 27.05
  
-- **Week 14: RL with super long trajectories & course wrap-up** -- 27.04
+- **Week 14: RL with super long trajectories & course wrap-up** -- 3.06
