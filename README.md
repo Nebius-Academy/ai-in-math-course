@@ -69,8 +69,6 @@
 
 - **Week 11: Reinforcement Learning, part 2: PPO** -- 13.05
 
-- **Week 12: Algorithmic optimization & AlphaEvolve** -- 20.05
+- **Week 12: RL in Math. Cross-entropy method and PatternBoost** -- 20.05
 
-- **Week 13: RAG and Agents** -- 27.05
- 
-- **Week 14: RL with super long trajectories & course wrap-up** -- 3.06
+- **Week 13: Algorithmic optimization & AlphaEvolve. AI Agents** -- 27.05
