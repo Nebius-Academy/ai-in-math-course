@@ -71,4 +71,22 @@
 
 - **Week 12: RL in Math. Cross-entropy method and PatternBoost** -- 20.05
 
+  Papers of the week:
+  * [What makes math problems hard for reinforcement learning: a case study](https://arxiv.org/abs/2408.15332)
+  * [Resolution of AutoGraphiX conjectures relating the index and matching number of graphs](https://arxiv.org/abs/2408.15332)
+  * [Constructions in combinatorics via neural networks](https://arxiv.org/abs/2104.14516)
+  * [PatternBoost: Constructions in Mathematics with a Little Help from AI](https://arxiv.org/abs/2411.00566v1)
+  * [Generating Hadamard matrices with transformers](https://arxiv.org/pdf/2604.11101v2)
+  * [Flow-based Extremal Mathematical Structure Discovery](https://arxiv.org/abs/2601.18005)
+  * [Spectral Structure in Finite Free Information Inequalities and p-Stam Phase Transitions](https://arxiv.org/abs/2604.11922)
+
+
 - **Week 13: Algorithmic optimization & AlphaEvolve. AI Agents** -- 27.05
+
+  Papers of the week:
+  * [Bruhat intervals that are large hypercubes](https://arxiv.org/abs/2601.01235) 
+  * [Mathematical exploration and discovery at scale](https://arxiv.org/abs/2511.02864)
+  * [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/abs/2509.19349)
+  * [Aristotle: IMO-level Automated Theorem Proving](https://arxiv.org/abs/2510.01346)
+  * [Olympiad-level formal mathematical reasoning with reinforcement learning](https://www.nature.com/articles/s41586-025-09833-y)
+  * [Advancing Mathematics Research with AI-Driven Formal Proof Search](https://arxiv.org/abs/2605.22763v1)
